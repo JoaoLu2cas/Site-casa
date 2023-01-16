@@ -14,7 +14,7 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #191970;
+    background-color:#000000;
 
 }
 
@@ -81,8 +81,11 @@ nav ul li a {
     align-items: center;
     text-align: center;
     padding: 10px 10px 20px 20px;
-    background-color: #191970;
+    background-color:#000000;
     color: #FFFFFF;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 
  }
  #sobre h2 {
@@ -93,8 +96,9 @@ nav ul li a {
 
  #sobre p {
 
-    margin-bottom: 2.5em;
+    margin-bottom: 3em;
     max-width: 1000px;
+    
 
  }
 
@@ -106,13 +110,14 @@ nav ul li a {
     flex-direction: column;
     align-items: center;
     padding-top: 20px;
+    background-color: #1c1c1c;
 
 }
 
 #fotos h2 {
 
     margin-bottom: 20px;
-    color:#FFFFFF
+    color:#ffffff
 
 }
 
@@ -143,7 +148,7 @@ nav ul li a {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #191970;
+    background-color: #000000;
     color: #FFFFFF;
 }
 
